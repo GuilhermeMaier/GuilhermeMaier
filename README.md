@@ -1,7 +1,6 @@
 ### Hello, I'm Guilherme Maier 👋
 
-- 🔭 I’m currently working on Nest.js
-- 🌱 I’m currently learning Next.js, React.js and MongoDB
+- 🔭 I’m currently working on Next.js/Nest.js
 
 <div align="center" width:"100%">
   <a target="_blank" href="https://github.com/GuilhermeMaier">
